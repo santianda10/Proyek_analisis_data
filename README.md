@@ -8,13 +8,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 ## Run steamlit app
 ```
+cd bike-sharing/dashboard/
 streamlit run Santianda_Submission_Proyek_Analisis_Data.py
 ```
-## Penggunaan
-1. Masuk ke direktori proyek (Local):
-
-    ```shell
-    cd bike-sharing/dashboard/
-    streamlit run dashboard.py
-    ```
-    Atau bisa dengan kunjungi website ini [Project Data Analytics](https://submission1726.streamlit.app/)
+    Atau bisa dengan kunjungi website ini [Proyek_analisis_data](https://submission1726.streamlit.app/)
