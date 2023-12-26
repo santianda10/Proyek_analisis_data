@@ -10,5 +10,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run Santianda_Submission_Proyek_Analisis_Data.py
 ```
-## Run steamlit app
 
