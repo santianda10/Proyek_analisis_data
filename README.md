@@ -7,7 +7,6 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 ## Run steamlit app
-1. Masuk ke direktori proyek (Local):
 
     ```shell
     streamlit run Santianda_Submission_Proyek_Analisis_Data.py
